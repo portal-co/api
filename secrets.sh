@@ -1,0 +1,1 @@
+source ./pkg/proprietary/secrets.sh
