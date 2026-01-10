@@ -1,13 +1,14 @@
 # api
 
 ## Description
-Project api
+Core API service for the Portal ecosystem, built with Go. Integrates with IPFS, Libp2p, Kubernetes, and other distributed systems components.
 
 ## Goals
-- [ ] Add project goals
+- [ ] expose API endpoints for Portal services
+- [ ] Manages interactions with distributed storage and compute layers
 
 ## Progress
-- [ ] Initial setup
+- [ ] Go module initialized with comprehensive dependency tree (IPFS, Libp2p, K8s)
 
 ---
 *AI assisted*
